@@ -26,6 +26,6 @@ init.addEventListener("click", (e) => {
     main!.insertAdjacentElement("afterbegin", div);
     setTimeout(() => {
       div.remove();
-    }, 2000);
+    }, 2500);
   }
 });
