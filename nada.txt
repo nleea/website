@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 this is a change in the file, for test git
+=======
+this is a text
