@@ -14,7 +14,7 @@ export const Balance = (data: Idata) => {
         <table class="steelBlueCols mx-auto">
         <thead>
         <tr>
-        <th>ACTIVOS CORRIENTES</th>
+        <th>ACTIVOS - CORRIENTES</th>
         <th>ACTIVOS&nbsp;</th>
         <th>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</th>
         <th>PASIVOS&nbsp;</th>
